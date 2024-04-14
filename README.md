@@ -25,11 +25,11 @@ git clone https://<access-token>@github.com/<username>/<repo-name>.git
 
 ``` php
 
-git clone https://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@github.com/shivam50091/stripe-concepts.git
+git clone https://ghp_Zlr9ajghjgrktklrtrkkyk9Q1QN2LZLLYgw1s4QbgEw@github.com/shivam50091/stripe-concepts.git
 
 ```
 In this example 
-- This is token "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"
+- This is token "ghp_Zlr9ajghjgrktklrtrkkyk9Q1QN2LZLLYgw1s4QbgEw"
 - This is username "shivam50091"
 - This is Repo name "stripe-concepts.git"
 
@@ -62,7 +62,7 @@ git clone https://username:access-token@github.com/username/repo-name.git
 #### Example
 
 ``` php
-git clone https://shivam50091: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@github.com/shivam50091/git-documentation.git
+git clone https://shivam50091:github_pat_11AW2BXRA0zpR7yxG4Z5Gb_fVRGo4EIl4cojioulkikjikkjqCLJU5XC5EEVZG09TInVu@github.com/shivam50091/git-documentation.git
 ```
 
 Or go to repo click on code and choose HTTPS
